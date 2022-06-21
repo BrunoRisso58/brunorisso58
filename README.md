@@ -1,5 +1,5 @@
-## Olá mundo! 👋
-### Seja bem-vindo ao meu GitHub!
+## Hello, World! 👋
+### Welcome to my GitHub!
 
 <!--
 **BrunoRisso58/brunorisso58** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
